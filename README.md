@@ -1,2 +1,2 @@
 # Calculadora
-simple calculator
+calculadora simples em delphi
